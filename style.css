@@ -581,10 +581,11 @@ body {
 
 }
 @media screen and (min-width: 768px) {
-.header-toggle,.menu-close{
+
+ .header .header-toggle,.menu-close{
     display: none;
 }
-
+}
 @media screen and (max-width: 767px) {
     body{
         padding: 2rem;
